@@ -1,7 +1,5 @@
 # 🛡️ Jogo de Batalha por Turnos em Kotlin
 
----
-
 **Criado por:** Victor Alexandre Lima Ribeiro ([@vyctor922](https://github.com/vyctor922))
 **Disciplina:** IARTES — Programação de Dispositivos Móveis com Android (2025)
 **Professor:** Lucas Lima Rodrigues ([@lucaslrodri](https://github.com/lucaslrodri))
@@ -168,5 +166,3 @@ Sinta-se livre para estudar, modificar e expandir o código, **mantendo os créd
 
 Copyright © 2025
 **Victor Alexandre Lima Ribeiro (vyctor922)**
-
----
